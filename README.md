@@ -12,20 +12,23 @@
 
 ### My Skills
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50" height="50" alt="React" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="50" height="50" alt="Next.js" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="50" height="50" alt="Django" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50" alt="Git" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50" alt="Docker" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Light.svg" width="50" height="50" alt="Firebase" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="50" height="50" alt="Express" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="50" height="50" alt="Node.js" />
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50" height="50" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="50" height="50" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="50" height="50" alt="Django" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50" alt="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Light.svg" width="50" height="50" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="50" height="50" alt="Express" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="50" height="50" alt="Node.js" />
+</p>
+
 
 
 
